@@ -18,7 +18,7 @@ You can download my CV [as PDF from my Google drive](https://drive.google.com/fi
 ## Courses
 
 <details>
-<summary>- Junior Software Tester Course in Masterfield Training Centre Budapest</summary>
+<summary>Junior Software Tester Course in Masterfield Training Centre Budapest</summary>
 
   ### Operating Systems, Networks, Virtual Environments (24 hours)
   - Basic network knowledge
@@ -88,7 +88,7 @@ You can download my CV [as PDF from my Google drive](https://drive.google.com/fi
   - Preparation for the International Software Testing Qualification Board Certified Tester Foundation Level internationally recognized exam
 </details> 
 <details>
-  <summary>- PYTHON Developer Course in Ruander Oktatóközpont Budapest</summary>
+  <summary>PYTHON Developer Course in Ruander Oktatóközpont Budapest</summary>
   
   ### Basic SQL knowledge
 
